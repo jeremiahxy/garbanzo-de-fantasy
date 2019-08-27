@@ -8,7 +8,6 @@ const TopMenu = () => (
     <Menu attached='top'>
       <Menu.Item>
         <img src="/js_logo.png" />
-        Fantasy Football MERN App
       </Menu.Item>
 
       <Menu.Menu position='right'>
